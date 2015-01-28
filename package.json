@@ -13,6 +13,7 @@
     "archiver": "^0.14.2"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "async": "*"
   }
 }
